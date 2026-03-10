@@ -1,6 +1,6 @@
 # AI for Non-Traditional Industries
 
-Exploring how AI can serve industries that have historically been left out of the tech conversation — not to replace human skill, but to extend it.
+Exploring how AI can serve industries that have historically been left out of the tech conversation, not to replace human skill, but to extend it.
 
 ## POC 1 · AI + Indian Artisanship
 
