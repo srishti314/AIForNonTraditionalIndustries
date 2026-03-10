@@ -22,7 +22,7 @@ Inspired by a visit to [IICD Jaipur](https://iicd.ac.in), where local artisans t
 
 ### Open it
 
-**No install required** — just open [`index.html`](index.html) in any browser.
+**No install required** — just open [Link](https://srishti314.github.io/AIForNonTraditionalIndustries/) in any browser.
 
 For developers, the React component source is in [`ai-crafts.jsx`](ai-crafts.jsx).
 
