@@ -6,7 +6,7 @@ Exploring how AI can serve industries that have historically been left out of th
 
 **"Where AI Meets the Artisan's Hand"**
 
-An interactive explainer covering six Indian craft traditions and how AI can help artisans — without replacing what makes their work human.
+An interactive explainer covering six Indian craft traditions and how AI can help artisans without replacing what makes their work human.
 
 Crafts covered:
 - 🎨 Block Printing
