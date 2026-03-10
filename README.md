@@ -37,4 +37,3 @@ For developers, the React component source is in [`ai-crafts.jsx`](ai-crafts.jsx
 
 ---
 
-`#AdvanceArtsUsingAI · #AIForNonTraditionalIndustries`
